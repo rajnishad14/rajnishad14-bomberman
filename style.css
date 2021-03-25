@@ -1,0 +1,27 @@
+.boxele{
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    display: table-cell;
+}
+.clicked{
+    height: 50px;
+    width: 50px;
+    background-color:green;
+    border: 1px solid black;
+    border-radius: 5px;
+    display: table-cell;
+}
+
+.bombcell{
+    height: 50px;
+    width: 50px;
+    background-color:red;
+    border: 1px solid white;
+    border-radius: 5px;
+    display: table-cell;
+    background-image: url(https://img.icons8.com/emoji/48/000000/bomb-emoji.png);
+
+}
